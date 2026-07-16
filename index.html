@@ -99,7 +99,7 @@
             <div class="grid">
               ${items.slice(0, 10).map((item, index) => `
                 <article class="card">
-                  <img class="thumb" src="${escapeHtml(item.image || fallbackImages[section.id])}" alt="">
+                <img class="thumb" src="${escapeHtml(item.image || fallbackImages[section.id])}" alt="" onerror="this.onerror=null;this.src='https://picsum.photos/seed/news-fallback/900/520';">
                   <div class="body">
                     <span class="rank">${String(index + 1).padStart(2, "0")}</span>
                     <h3>${escapeHtml(item.title)}</h3>
