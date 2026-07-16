@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>&#27599;&#26085;&#28909;&#28857;&#26032;&#38395;&#30701;&#35759;</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>&#27599;&#26085;&#28909;&#28857;&#26032;&#38395;&#30701;&#35759;</h1>
+    <p id="subtitle">&#27491;&#22312;&#36733;&#20837;&#36807;&#21435; 24 &#23567;&#26102;&#26032;&#38395;...</p>
+    <div class="meta">
+      <span>&#36130;&#32463;</span><span>&#31185;&#25216;</span><span>&#29983;&#29289;</span><span>&#28216;&#25103;</span><span>&#20013;&#22269;</span>
+    </div>
+  </header>
+
+  <main>
+    <div id="focus" class="focus"></div>
+    <div id="sections"></div>
+  </main>
+
+  <footer>
+    <span id="updated"></span>
+    <span>&#20449;&#24687;&#26469;&#33258;&#20844;&#24320;&#26032;&#38395;&#32858;&#21512;&#28304;&#65292;&#20165;&#20379;&#24555;&#36895;&#38405;&#35835;&#65292;&#19981;&#26500;&#25104;&#25237;&#36164;&#25110;&#21307;&#30103;&#24314;&#35758;&#12290;</span>
+  </footer>
+
+  <script>
+    const fallbackImages = {
+      finance: "https://source.unsplash.com/900x520/?finance,market",
+      tech: "https://source.unsplash.com/900x520/?technology,ai",
+      bio: "https://source.unsplash.com/900x520/?biotech,laboratory",
+      games: "https://source.unsplash.com/900x520/?gaming,esports",
+      china: "https://source.unsplash.com/900x520/?china,city"
+    };
+
+    function escapeHtml(value) {
+      return String(value || "").replace(/[&<>"']/g, (char) => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': "&quot;",
+        "'": "&#039;"
+      }[char]));
+    }
+
+    function formatTime(value) {
+      if (!value) return "";
+      try {
+        return new Intl.DateTimeFormat("zh-CN", {
+          month: "2-digit",
+          day: "2-digit",
+          hour: "2-digit",
+          minute: "2-digit"
+        }).format(new Date(value));
+      } catch {
+        return "";
+      }
+    }
+
+    function placeholderItems(section) {
+      return Array.from({ length: 10 }, (_, index) => ({
+        title: `${section.name}\u70ed\u70b9\u5f85\u66f4\u65b0 #${index + 1}`,
+        summary: "\u90e8\u7f72\u540e\uff0cGitHub Actions \u4f1a\u6bcf\u5929\u81ea\u52a8\u6293\u53d6\u8fc7\u53bb 24 \u5c0f\u65f6\u65b0\u95fb\u5e76\u66ff\u6362\u8fd9\u6761\u5185\u5bb9\u3002",
+        why: "\u70ed\u5ea6\u4f9d\u636e\uff1a\u7b49\u5f85\u81ea\u52a8\u4efb\u52a1\u5237\u65b0\u3002",
+        source: "\u521d\u59cb\u5316\u9875\u9762",
+        url: "https://news.google.com/",
+        image: `${fallbackImages[section.id]}&sig=init-${section.id}-${index}`,
+        published: ""
+      }));
+    }
+
+    function render(data) {
+      document.getElementById("subtitle").textContent =
+        `${data.dateLabel || ""}\uff5c${data.window || "\u8fc7\u53bb 24 \u5c0f\u65f6"}\uff5c${data.sourceNote || ""}`;
+      document.getElementById("updated").textContent =
+        `\u66f4\u65b0\u65f6\u95f4\uff1a${formatTime(data.generatedAt) || "\u7b49\u5f85\u81ea\u52a8\u66f4\u65b0"}`;
+
+      const focus = document.getElementById("focus");
+      focus.innerHTML = data.sections.map((section) => {
+        const first = (section.items && section.items[0]) || placeholderItems(section)[0];
+        return `
+          <article style="border-left-color:${section.accent}">
+            <b>${escapeHtml(section.name)}\u91cd\u70b9</b>
+            <p>${escapeHtml(first.title)}</p>
+          </article>
+        `;
+      }).join("");
+
+      const root = document.getElementById("sections");
+      root.innerHTML = data.sections.map((section) => {
+        const items = section.items && section.items.length ? section.items : placeholderItems(section);
+        return `
+          <section style="--accent:${section.accent}">
+            <div class="section-head">
+              <h2>${escapeHtml(section.name)}</h2>
+              <div class="section-note">\u6309\u516c\u5f00\u65b0\u95fb\u805a\u5408\u70ed\u5ea6\u6392\u5e8f\uff0c\u53d6\u524d 10 \u6761</div>
+            </div>
+            <div class="grid">
+              ${items.slice(0, 10).map((item, index) => `
+                <article class="card">
+                  <img class="thumb" src="${escapeHtml(item.image || fallbackImages[section.id])}" alt="">
+                  <div class="body">
+                    <span class="rank">${String(index + 1).padStart(2, "0")}</span>
+                    <h3>${escapeHtml(item.title)}</h3>
+                    <p>${escapeHtml(item.summary)}</p>
+                    <p class="why">${escapeHtml(item.why)} ${formatTime(item.published)}</p>
+                    <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">\u9605\u8bfb\u6765\u6e90\uff1a${escapeHtml(item.source || "\u6765\u6e90")}</a>
+                  </div>
+                </article>
+              `).join("")}
+            </div>
+          </section>
+        `;
+      }).join("");
+    }
+
+    fetch("data/news.json", { cache: "no-store" })
+      .then((res) => res.json())
+      .then(render)
+      .catch(() => {
+        document.getElementById("subtitle").textContent = "\u65b0\u95fb\u6570\u636e\u8f7d\u5165\u5931\u8d25\uff0c\u8bf7\u7a0d\u540e\u5237\u65b0\u3002";
+      });
+  </script>
+</body>
+</html>

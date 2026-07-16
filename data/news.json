@@ -1,0 +1,493 @@
+{
+  "generatedAt": "2026-07-16T22:21:18.704155+08:00",
+  "dateLabel": "2026-07-16",
+  "window": "过去 24 小时",
+  "sourceNote": "Google News RSS 与公开新闻聚合结果；按板块关键词抓取并去重。",
+  "sections": [
+    {
+      "id": "finance",
+      "name": "财经",
+      "accent": "#0f766e",
+      "items": [
+        {
+          "title": "China’s Economy Grows 4.7% in First Half, In Line With Annual Goal",
+          "summary": "China’s Economy Grows 4.7% in First Half, In Line With Annual Goal &nbsp;&nbsp; 一财全球Yicai Global",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "一财全球Yicai Global",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVFBeTZNZ25GMlcyRk9OcDVIYUlENjV4WTcxVGJFVTZac3NjdVlkMDRCQnRjME5UaFg4aWphNHZ4azBkVWo2WndGNFBVU1NtN2t1RTh5RnZaTXpQLUlaOFhnX3F3akF4MGVUcnBFcGt6dDdaMUlxdmpsV01LbnY3dEZmSVM0ckN0bTZScmYxSVowOEtLNHc?oc=5",
+          "published": "2026-07-16T16:11:42+08:00",
+          "image": "https://source.unsplash.com/900x520/?finance,market&sig=finance-1"
+        },
+        {
+          "title": "财经慧说丨15亿块芯片“日产量”背后，新动能正在“挑大梁”",
+          "summary": "财经慧说丨15亿块芯片“日产量”背后，新动能正在“挑大梁” &nbsp;&nbsp; 新华网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "新华网",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3FUQmsxNnVURkN4ZXFkbGs4VUdhWXl0NktWUmd4dV92WEVlN21sWE91RXNCT2poWGpqRThqVmVhaVk4MXM3em1lQ2w4S2xjUGNJLVBtNGsxOW9HRUdYbE5EX3BjTU1KMlZHbGxkNy1wMzZLNUtiSWhYbE45VDhMWkR5Z2dHSDhJ?oc=5",
+          "published": "2026-07-16T22:03:03+08:00",
+          "image": "https://source.unsplash.com/900x520/?finance,market&sig=finance-2"
+        },
+        {
+          "title": "新华财经晚报：商务部回应推动解决安世半导体问题进展",
+          "summary": "新华财经晚报：商务部回应推动解决安世半导体问题进展 &nbsp;&nbsp; 东方财富",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03Y3BUNXhBLWZ4ZmdWVUJXcmx1SDQ1T0VUd2RCby1qVzhfTU1xTTMtX3dveGdBM0VNU2gtb1BfbzFYQXNLNDZSSEZrVzQyY2dEUG0tRmdMRHMwbnltSGVieFBiQk5vdw?oc=5",
+          "published": "2026-07-16T18:00:57+08:00",
+          "image": "https://source.unsplash.com/900x520/?finance,market&sig=finance-3"
+        },
+        {
+          "title": "【环球财经】欧元区5月对外货物贸易逆差扩大至78亿欧元",
+          "summary": "【环球财经】欧元区5月对外货物贸易逆差扩大至78亿欧元 &nbsp;&nbsp; eeo.com.cn",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "eeo.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XQmp3dUY5QmJ5WklPWWdWTlFxdUFBVzlaTWZ1WU5NMTZUcmVVTzZleVZKV1hYNzZuTVRCZmtmX1hZZ3FtdTQ5NDJ1TjNKME5mVTNLandHTQ?oc=5",
+          "published": "2026-07-16T20:13:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?finance,market&sig=finance-4"
+        },
+        {
+          "title": "【环球财经】英国5月份GDP环比增长0.1%",
+          "summary": "【环球财经】英国5月份GDP环比增长0.1% &nbsp;&nbsp; 中国金融信息网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "中国金融信息网",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PanhmRG10MUw0OWI4YWdPNm0xdmVqQWxqVWtrQ2h0TzZlaGN5R0FfQ2hVTmZGN2p2VEpYY2ZvWGRCWmNmUlVPS3dUVHJSSUJMcFZ3eW42cWFWNkhkUnRHajJWNlQ3Qzg2SUE?oc=5",
+          "published": "2026-07-16T18:54:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?finance,market&sig=finance-5"
+        },
+        {
+          "title": "南方财经全媒体集团",
+          "summary": "南方财经全媒体集团 &nbsp;&nbsp; 南方财经",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "南方财经",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50TkVhWTEzWXhoV3ZNWWY0M292UmNxcHhZRnA4eG1wS3BDX2NLc0Z2Tm51QWRnS1kzLVdOaE1rdjI2M2ZNTEdpV3JSbTZwX3gxcWJBelZCVWpCbkJMTllOZEVOOEpNSjNq?oc=5",
+          "published": "2026-07-16T21:02:22+08:00",
+          "image": "https://source.unsplash.com/900x520/?finance,market&sig=finance-6"
+        },
+        {
+          "title": "“好房子”建设提速：技术如何落地、成本如何下降？",
+          "summary": "“好房子”建设提速：技术如何落地、成本如何下降？ &nbsp;&nbsp; 21财经",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "21财经",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdjFMQU1ZMzZkUnYySHowSlJxQW9SR3pVaUladFVDZGFrVEhGLTJiVmE1eXd3bGhZWUEwWTNwSUc4cVN4R3R0ZDQ2OHJCMjV6RlVxa1BER01hMlNHV0hxeEwtS0tIZUdVaDFJYmVSY012NlppU1hONl9SaUhLOFlWWEwxZ3p0d19iY1Jobg?oc=5",
+          "published": "2026-07-16T20:47:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?finance,market&sig=finance-7"
+        },
+        {
+          "title": "辣点财经|蒋方舟靠“名气变现”：成也人设、败也人设",
+          "summary": "辣点财经|蒋方舟靠“名气变现”：成也人设、败也人设 &nbsp;&nbsp; 华声在线",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "华声在线",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BOXF4bWRMeHgxc2F3bDlWbXM5bkNOdFQwckduSDE4SVI4WlpiNGR0enhudXdLSDRzTUJzVDFneHVHbnlJcDkxcXlFbDl0ekZiZkVRNzJGY1JYQVhhWUcw?oc=5",
+          "published": "2026-07-16T20:56:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?finance,market&sig=finance-8"
+        },
+        {
+          "title": "拜登要出新书了",
+          "summary": "拜登要出新书了 &nbsp;&nbsp; 21财经",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "21财经",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXJLSnp4TnFDbXJZN2o1Q0FGVmtIeVZXU2ZLUWRZQzNnc0h5Y2JWNTRqenMzWHRaY0RZMlN1Tzd4VTRTX0tDWXk4eWhYb3VYeExaRWNjcG1JWFFsNVg1TXpQMXJ3RXNMc2tnY3RrQllWVFl2UG5jZUZRQmpfcE1tdElQYWxEd3pZS2FJbA?oc=5",
+          "published": "2026-07-16T19:38:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?finance,market&sig=finance-9"
+        },
+        {
+          "title": "南方财经全媒体集团 伍素文 2026-07-16 19:17:46",
+          "summary": "南方财经全媒体集团 伍素文 2026-07-16 19:17:46 &nbsp;&nbsp; 南方财经",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "南方财经",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSSGxIT3F6N1FCUG1IZzZFZ3BXRm0zd0ZuSjBfaV90Q2gtb2JsLVVXTkZaTUZ3NmtINEFERGJPMDVabUVCU3lIQk1UUkF2S05oTFhQbVpEUmdZZ090RWZsQUdpSU5wY1Mx?oc=5",
+          "published": "2026-07-16T19:17:46+08:00",
+          "image": "https://source.unsplash.com/900x520/?finance,market&sig=finance-10"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "科技",
+      "accent": "#2563eb",
+      "items": [
+        {
+          "title": "县城泳装厂，用AI撬动全球订单",
+          "summary": "县城泳装厂，用AI撬动全球订单 &nbsp;&nbsp; 中国日报网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "中国日报网",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EaTFIMzZZdnByR3g1cFQ0ai14SDlkUEM1b2xqOUNqRkl2eEJNQ0VITmhFMThTb2M0bEJuMEZFb05ZTnRudHFTLTlxX2hGR3NqeWF4R01NNTlrVk95YmZnRDVueWxfV0VUTDRURWJjS0U5NjZJSnlLR0wzY2o?oc=5",
+          "published": "2026-07-16T18:32:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?technology,ai&sig=tech-1"
+        },
+        {
+          "title": "AI赋能，上海制造业加速升级",
+          "summary": "AI赋能，上海制造业加速升级 &nbsp;&nbsp; shobserver.com",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "shobserver.com",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hQXNFN2x5OVloQkFTYzB0WUNrYWJfZ19PNEVrNUVZRklxU1RHYWpiTGxmMTNmOVhCOE1tNVFEOHdYdmEyaUNIazkwMVdORUdDajROYk1CUDFzUXEzbmc?oc=5",
+          "published": "2026-07-16T19:31:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?technology,ai&sig=tech-2"
+        },
+        {
+          "title": "【江淮晨报】合肥AI力量明日亮相上海滩",
+          "summary": "【江淮晨报】合肥AI力量明日亮相上海滩 &nbsp;&nbsp; 中国科大新闻网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "中国科大新闻网",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KMHNVV2ZlSGFFOUQ3MWdObV9WS3ZYY09aZzlzWGwwU1puUkpBalpwMWtsVlJQV3AtR3JJNXhUT3ZqTXpZVjNMU09XLXhBNW56U19Oanctcw?oc=5",
+          "published": "2026-07-16T18:39:50+08:00",
+          "image": "https://source.unsplash.com/900x520/?technology,ai&sig=tech-3"
+        },
+        {
+          "title": "“AI点亮乡村教育·2026校长赋能计划”在京启动",
+          "summary": "“AI点亮乡村教育·2026校长赋能计划”在京启动 &nbsp;&nbsp; 新华网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "新华网",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45WTFJNXJtNFVfMUNQdVhEeWZQdkRCTVp3alRwWkhZTDhLVk1Nc3A4VGFmeGY0RWpQZDBVbnRaSUs1c2VUM1VQV19lUExuMWdCdFNJU0YxbFRoUTZYNFFudUZGa3ViVllsN3JndFNpNlZaRXVKajk4T1VMTjBoSjA?oc=5",
+          "published": "2026-07-16T19:33:23+08:00",
+          "image": "https://source.unsplash.com/900x520/?technology,ai&sig=tech-4"
+        },
+        {
+          "title": "北京市AI创新大赛启动，社会公众皆可参赛",
+          "summary": "北京市AI创新大赛启动，社会公众皆可参赛 &nbsp;&nbsp; 新京报",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "新京报",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNMFotOV8tN0dTcUs2UkZDaTBYeHd4VF93QUduN2VScUR6ZjcwUnE4UmJmbGRLaXBFS29fekRuNTllU05HdWlkWlp5VVV5V2dSSlRuN2Zydnl0QzlCUnZXNUgxX0w?oc=5",
+          "published": "2026-07-16T21:27:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?technology,ai&sig=tech-5"
+        },
+        {
+          "title": "科技赋能产业升级 静宁高新区激活县域发展新动能",
+          "summary": "科技赋能产业升级 静宁高新区激活县域发展新动能 &nbsp;&nbsp; 中国科技网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "中国科技网",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52dEhwWmwxbWtYOFdnWndiZkpwZE9nS3QtOG1tY0ZXOG5SSEpCOWZQWm9IbkJ0cHFfWkV3YWdGRjR4RndEMmctZDhvMng2bmdnaTJIXzFCbk1YV3EtUVNJTWlJZEs2QW94MjJ0V2s2Qng?oc=5",
+          "published": "2026-07-16T17:37:24+08:00",
+          "image": "https://source.unsplash.com/900x520/?technology,ai&sig=tech-6"
+        },
+        {
+          "title": "国网电科院（南瑞集团）“科技月”开幕式暨“AI・青年・未来”青年科技论坛召开",
+          "summary": "国网电科院（南瑞集团）“科技月”开幕式暨“AI・青年・未来”青年科技论坛召开 &nbsp;&nbsp; 中国能源新闻网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "中国能源新闻网",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PN0Q2eHlhR1RUejlNMDAwR2dLX0FOcmljU0hxVlFLRmg5YlFRMFRWWlhvQk55MUtPc1R4WmlFYXJQendNQnNRWmdXeHZsSS1lYVpVTXRiTWFaNlZJaG1hNWd2OUFQemE5V1NFeWtrS1pxVnBDU29F?oc=5",
+          "published": "2026-07-16T20:41:25+08:00",
+          "image": "https://source.unsplash.com/900x520/?technology,ai&sig=tech-7"
+        },
+        {
+          "title": "微博王巍：AI安全风险加速外溢 可信治理需多方协同共建",
+          "summary": "微博王巍：AI安全风险加速外溢 可信治理需多方协同共建 &nbsp;&nbsp; 央广网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "央广网",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uZldBTmFWU1laNjdPQmd5bjRsUjhUZzltQWNTbV92Y3RlZkZoZjFiand4eW96T0lLQXVmdDhiQ2N3VTlRdm9BM3lxMUNXcWFTSjB2aWV4cFNBZWlMZ00yVmpsMWdXVXlKQk1fYUNOc1dKQQ?oc=5",
+          "published": "2026-07-16T17:08:12+08:00",
+          "image": "https://source.unsplash.com/900x520/?technology,ai&sig=tech-8"
+        },
+        {
+          "title": "微软AI总监：《伟大的人类》通谕对人工智能的发展极为宝贵- 梵蒂冈新闻网",
+          "summary": "微软AI总监：《伟大的人类》通谕对人工智能的发展极为宝贵- 梵蒂冈新闻网 &nbsp;&nbsp; Vatican News",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "Vatican News",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNXpqWHlWcW9OUWhmMWpxZENweG9lX09GV2JWN1ZBUE9yWmlSWnFJM2VFMTRDMkFDVlR0ak4wZzFDMVo0WHh2YWVLamNHQ1BlRjlacktFMTBRY0hnZUhBR184ZVZCeEJrWDZkNk5wWUxOX0ZQaGYwTUJ3bjE1YWtIR21uOTNkalBVRWVvSl93Z3p4ZzM0NGJQRGFGQVZFazN5eVE?oc=5",
+          "published": "2026-07-16T15:07:14+08:00",
+          "image": "https://source.unsplash.com/900x520/?technology,ai&sig=tech-9"
+        },
+        {
+          "title": "7款手机端侧大模型备案通过 AI智能体手机热度激增",
+          "summary": "7款手机端侧大模型备案通过 AI智能体手机热度激增 &nbsp;&nbsp; eeo.com.cn",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "eeo.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DcWV4QW81cVVjQXZ2RWxDS19LOXNQYi1YY1VxeEpvRDVFVU9obUxkeFU1QUJ5Rm1ha0dEQVhESEtKZWpiWk9wRzdmNHRSX19TczQwWmJGMA?oc=5",
+          "published": "2026-07-16T20:13:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?technology,ai&sig=tech-10"
+        }
+      ]
+    },
+    {
+      "id": "bio",
+      "name": "生物",
+      "accent": "#5b7f2a",
+      "items": [
+        {
+          "title": "“临药通”亮相，临港升级生物医药全生命周期服务体系",
+          "summary": "“临药通”亮相，临港升级生物医药全生命周期服务体系 &nbsp;&nbsp; shobserver.com",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "shobserver.com",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vTnR5MnNMVHNQejV4Qmp6c2ZSamFNQkxwYXRRWDlGQlIzc09GUFlRbGJONzlwRVlsMGRESEdqbXg4ZWFKb05oQkYwNERyanFuVkMyaGJKNlNfRTBkSVE?oc=5",
+          "published": "2026-07-16T21:51:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?biotech,laboratory&sig=bio-1"
+        },
+        {
+          "title": "默沙东口服PCSK9抑制剂LIPFENDRA获美国FDA批准",
+          "summary": "默沙东口服PCSK9抑制剂LIPFENDRA获美国FDA批准 &nbsp;&nbsp; 东方财富",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zM1ZsUmRfeWxlejZER29qbE1KaUJWYTJrY0dpdHJ4ZWExN1BoZGlfcVVCWk5vWjhVY1dDQkNLSnB6QjNXdk5FY1ZmN3F6S0FycjlSX3dkZzhfa0d6aU1ZOWtwbDlUZw?oc=5",
+          "published": "2026-07-16T19:13:52+08:00",
+          "image": "https://source.unsplash.com/900x520/?biotech,laboratory&sig=bio-2"
+        },
+        {
+          "title": "北外举办中国认知科学学会生物语言学专委会成立会议暨2026第五届生物语言学•语言习得国际研讨会",
+          "summary": "北外举办中国认知科学学会生物语言学专委会成立会议暨2026第五届生物语言学•语言习得国际研讨会 &nbsp;&nbsp; 北外新闻网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "北外新闻网",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5eFhwR2pTRGo3UHlxWGhoX1NrUVJKVlNncG1yeF9OU1pQMWpDd1dCZEp0bGlWVFY2TmYwYlZXa3NkMjlBYk5SeDRqVW96Z0dyZFE?oc=5",
+          "published": "2026-07-16T15:50:59+08:00",
+          "image": "https://source.unsplash.com/900x520/?biotech,laboratory&sig=bio-3"
+        },
+        {
+          "title": "Self GRAS 取消最新进展！FDA把GRAS改革的拟议规则推迟到12月发布- 资讯与活动- 食品 - 瑞旭集团",
+          "summary": "Self GRAS 取消最新进展！FDA把GRAS改革的拟议规则推迟到12月发布- 资讯与活动- 食品 - 瑞旭集团 &nbsp;&nbsp; CIRS Group",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "CIRS Group",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXNVVl9qdVN0RzdBZXlmSUxOMkktSURhVTJBMnl3a1ZLb0VKcEYtSmQ3UE9meUptRmdTbXk0UUw5OFFGWVRiajdzR2dma0ZpYlRkUEJMdFlnNGQtZ0ZPSlNrNGx6SEdwWkxHS3AwZmpsdnpDa0dGRm9tN2lpTjlDdEhYYUJ4MmhXRjhWTXRaNUJQSVRWcEd5azE5UEpwRHNvYVhlZ28zbzlPTElxM0Q1NFQxbzZhcVhEYnl1N3EyZDNsdEdpbFhB?oc=5",
+          "published": "2026-07-16T15:38:24+08:00",
+          "image": "https://source.unsplash.com/900x520/?biotech,laboratory&sig=bio-4"
+        },
+        {
+          "title": "第十二届北京市大学生生物学竞赛决赛在我校落幕 我校学子斩获多项市级奖项",
+          "summary": "第十二届北京市大学生生物学竞赛决赛在我校落幕 我校学子斩获多项市级奖项 &nbsp;&nbsp; 中国农业大学新闻网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "中国农业大学新闻网",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zQzZWQWRWZEhxalc2MnRaZEJpWW5DVEYzNUs1RXhCM1N2V3I5TlBEUFVFWFJRSXVGZUFJdWh3ME9vSEdOZzVVYVlfTWFfbDFkSTdoMHllWWJ6aUJhYVlTbUQwSW9wYU5MSjhzM1FmSkRsSnFqVmNB?oc=5",
+          "published": "2026-07-16T16:01:55+08:00",
+          "image": "https://source.unsplash.com/900x520/?biotech,laboratory&sig=bio-5"
+        },
+        {
+          "title": "“智汇江海 产才融合”南通生物医药产业（上海）合作对接活动举办",
+          "summary": "“智汇江海 产才融合”南通生物医药产业（上海）合作对接活动举办 &nbsp;&nbsp; thepaper.cn",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "thepaper.cn",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ySGt3SDlDU2R0dWlmYjhiZERpZmluaDZPX0xlWWIydWJYVTJCVEt0d2hicjlVNTctZmhqa1J1VU4zVWNFNlE2WE8xb1c0ZGZKa1pmTlNpSjMwaXBDZ3c?oc=5",
+          "published": "2026-07-16T17:47:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?biotech,laboratory&sig=bio-6"
+        },
+        {
+          "title": "画廊 阿斯利康制药研发中心（英国剑桥生物医学园区） / 赫尔佐格 & 德梅隆设计事务所 - 4",
+          "summary": "画廊 阿斯利康制药研发中心（英国剑桥生物医学园区） / 赫尔佐格 & 德梅隆设计事务所 - 4 &nbsp;&nbsp; ArchDaily",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "ArchDaily",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNak82RjJ1WVdCczNMNF9xNWozWWkydG5wcndrb2t2Q21nLV9IYms1R252RVFEY2tDQkZWeE9vdnNzYUhTN3FGa2NtWjRUNVBXc1BZaTZNT3Vodkcyay1JckRxWXlxcVNzNjA2NkdCR19BU3U3STRZdkphdkRGZllNV1BWV0I5VUtXS2xZWEJsSGxreWh1bjc1b3k1RWdsMFgyWXJzWm9Lckk2Z3BMOE54WXlwYWg3LURySmRtZFkxNW9FaUJyaC1yMjhCXzI3US11UXl0MGZndFhsS0hNWVdGVHVsZVRmWFctRXRYRWZ3RGs5dnQ2czVEb3FNYTVQOF9USVF0c2dTdk8xMklUb3hjdDZ5a1J6enAwWXRSbjFkenV2QTM3Z2V1Y2szWEdoT0x5RGtYRjB3WktMQQ?oc=5",
+          "published": "2026-07-16T19:20:33+08:00",
+          "image": "https://source.unsplash.com/900x520/?biotech,laboratory&sig=bio-7"
+        },
+        {
+          "title": "中国科学院新刊推介丨《水生生物多样性与生态（英文）》",
+          "summary": "中国科学院新刊推介丨《水生生物多样性与生态（英文）》 &nbsp;&nbsp; 中国网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "中国网",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEQzk0VkllZ0ZoNHY2Q2dnSUNjUUpHU2c1SktXTGRIQXhYTzV5M3JvWXE4SE92elZOX29aUnZQTmJuS0V0R1F4NTdsdjJUNk1kelg3elpLMFdFUjhrMk5aNDVzQmtseGZvM3lv?oc=5",
+          "published": "2026-07-16T16:15:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?biotech,laboratory&sig=bio-8"
+        },
+        {
+          "title": "【环球财经】印尼政府称B50生物柴油不会损伤发动机",
+          "summary": "【环球财经】印尼政府称B50生物柴油不会损伤发动机 &nbsp;&nbsp; eeo.com.cn",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "eeo.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VWWhLNmxUN1YzT2VpOE0xa25Zb3R3LTFnWkV3bGs2RjZ0OHFtNXlONDBlQ3k4dmc4c0IzdGtDdDFsSnFEQ3JkeElUY2V2UFhlcVBWcWRXMA?oc=5",
+          "published": "2026-07-16T17:03:25+08:00",
+          "image": "https://source.unsplash.com/900x520/?biotech,laboratory&sig=bio-9"
+        },
+        {
+          "title": "苑东生物(688513.SH)：注射用苯磺酸瑞马唑仑获药品注册证书，国内首家仿制药获批",
+          "summary": "苑东生物(688513.SH)：注射用苯磺酸瑞马唑仑获药品注册证书，国内首家仿制药获批 &nbsp;&nbsp; 东方财富网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "东方财富网",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzbk1QblljY1ZpTDdzU1Zva3FaQzA5T2hLWXlRTWRxTFJsVXNNc0psU0RabjdpbXpiMGMybUllZlQ1eEJ1VUVJMjRGRTFRU0w0dDFWZEVuV2FkdkpReDl6eQ?oc=5",
+          "published": "2026-07-16T20:56:15+08:00",
+          "image": "https://source.unsplash.com/900x520/?biotech,laboratory&sig=bio-10"
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "name": "游戏",
+      "accent": "#9a4b14",
+      "items": [
+        {
+          "title": "Sony PlayStation 6 或成全数字掌机",
+          "summary": "Sony PlayStation 6 或成全数字掌机 &nbsp;&nbsp; Hypebeast CN",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "Hypebeast CN",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbVNNOXdaMWZJU0ZMdDhwNnZTMWpDRm84MTRRV0xoeWFxeUZMMGFhQjhjWVNXU1J3WmJtd3RreGpORkJyY1gwLUpBYXVzNzVrZzhoSXJaWnRJUUZ0UUFsbC1BcVpiNlpiNkRTSUhNT1kxVzdOcFFGZkJWbzN6QUZtazhZdWM1dTE3bUE?oc=5",
+          "published": "2026-07-16T15:49:20+08:00",
+          "image": "https://source.unsplash.com/900x520/?gaming,esports&sig=games-1"
+        },
+        {
+          "title": "游戏圈顶流GTA VI预售开闸！涨价照样不愁卖 分析师翘首期盼新纪录",
+          "summary": "游戏圈顶流GTA VI预售开闸！涨价照样不愁卖 分析师翘首期盼新纪录 &nbsp;&nbsp; 财联社",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "财联社",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBINV90MGRMQ25LM1JIZFVsbnZwbjhpNnZGZlRyUDA4c0VROUtEYVYtMkNlU1VMTi1PeUFfNHQ3YkZFbUJ4YWZXTA?oc=5",
+          "published": "2026-07-16T19:20:59+08:00",
+          "image": "https://source.unsplash.com/900x520/?gaming,esports&sig=games-2"
+        },
+        {
+          "title": "HyperX 游戏家族亮相BiliBiliWorld 2026，全系装备解锁多元游戏体验",
+          "summary": "HyperX 游戏家族亮相BiliBiliWorld 2026，全系装备解锁多元游戏体验 &nbsp;&nbsp; 新华报业网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "新华报业网",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1va3I3eHFiZVhFcFhBU3FTWlh3ZVZtYmRVb0VSejBYMGNRWlVTNmVnMDNITXo0MEVyVWhuSm9JOWpkdFRIaDBlS244aE04V1hhT0F3SW1HMUxFT2RLUnpuWVhueUFiNFIxNm1R?oc=5",
+          "published": "2026-07-16T17:31:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?gaming,esports&sig=games-3"
+        },
+        {
+          "title": "米哈游新作大变样，游戏厂商怎么都放手一搏了？",
+          "summary": "米哈游新作大变样，游戏厂商怎么都放手一搏了？ &nbsp;&nbsp; 搜狐网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSEpIZkl2UzNRaTIyN0EzdFltbGZlMkZWMHdxVXdqVHloREJSN2ZOQ0szbzlreW5kRGZ5N3VoZUFrVEZWUkxkSE8zSHNFdktxUC1xSmU1Q0pGQUlUOFJjMlY4b3N4Wk9ReTYyMFVzQzd5ZXp2TzhOaGZITjJ6NDNQZzNENF9meHhPVTY3MHVxNUVSenEwSGpldHJfeGQtZzdfallENWR5WXN5ejFlTWdab0ZQUUFJdl9RbmVpc05teTdEWFRzdUNKaDN0MHdIdlpQTDg4NHltTGtjV2lEV01hZkRONDUyTk15dVNnTjRqTW9pSmZ5MUJqM253?oc=5",
+          "published": "2026-07-16T19:35:49+08:00",
+          "image": "https://source.unsplash.com/900x520/?gaming,esports&sig=games-4"
+        },
+        {
+          "title": "东方战争建造模拟游戏《烽沙》定档8月12日，将于Steam开启抢先体验",
+          "summary": "东方战争建造模拟游戏《烽沙》定档8月12日，将于Steam开启抢先体验 &nbsp;&nbsp; Games Press",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "Games Press",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkhJaXpGTzZ5cFNNVXpEWldqd3FhR3lIekxrZ28ya2FnNU4tRXAzR1pCdFJHdWJlSGZrd0JMdWt6R3RJc0tlS092LVA0WTljZ0hsRTdjQjZDTmNWWU42eERQVVpRZS1TU2tKYVl0ZldOcXBadkRoeHBJQW96RFNxc0JPUXlGR1hGa2t5TGlfQ3ExOHl6VzlpazkzNXI5WkNZQk9mMExn?oc=5",
+          "published": "2026-07-16T21:28:54+08:00",
+          "image": "https://source.unsplash.com/900x520/?gaming,esports&sig=games-5"
+        },
+        {
+          "title": "治愈放置游戏《鸟语森林》现已在Steam发售",
+          "summary": "治愈放置游戏《鸟语森林》现已在Steam发售 &nbsp;&nbsp; 机核GCORES",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "机核GCORES",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5icTZraDdyVkQ4V2pOWjNYbWRPb0ZqdHRJSmkwSTY4OS1HbjJpMmVsVFF2T2VkWEtoZmRoUGRuRzMxX2MzMWN4R1hiUUtoTGc?oc=5",
+          "published": "2026-07-16T20:37:53+08:00",
+          "image": "https://source.unsplash.com/900x520/?gaming,esports&sig=games-6"
+        },
+        {
+          "title": "游戏，置身于世界，创造他们的世界——谈埃利斯的《儿童游戏》",
+          "summary": "游戏，置身于世界，创造他们的世界——谈埃利斯的《儿童游戏》 &nbsp;&nbsp; thepaper.cn",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "thepaper.cn",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YSFI2aFVlc0dGMmI3X0RPNkV4TV9UV0g3N29wcVBtNmwteVdjQnN6NHNHcTJoMXcwSFFvTGFmUUY3RlAzY3k3N005elZoZS1KR1pKSVcyamNyRFlueVFNeA?oc=5",
+          "published": "2026-07-16T12:48:00+08:00",
+          "image": "https://source.unsplash.com/900x520/?gaming,esports&sig=games-7"
+        },
+        {
+          "title": "四叶草里的“军备竞赛”：今年的游戏厂商在BW“卷”什么？",
+          "summary": "四叶草里的“军备竞赛”：今年的游戏厂商在BW“卷”什么？ &nbsp;&nbsp; 风闻",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "风闻",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ybHZTMUU0czZrVjJiSTdjS0FsUmN3UHB6eUw0WVlTckhuQy16N0xRcWtwVEVaTm84cm85V0laeWFvcW0xWndtLUhoSC1LUXhLaTA4a0V4NjRqTVU?oc=5",
+          "published": "2026-07-16T17:05:43+08:00",
+          "image": "https://source.unsplash.com/900x520/?gaming,esports&sig=games-8"
+        },
+        {
+          "title": "趣味问答：职业选手们会照搬谁的游戏设置？",
+          "summary": "趣味问答：职业选手们会照搬谁的游戏设置？ &nbsp;&nbsp; 5EPlay",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "5EPlay",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QMW05RzhiVVdMd29heEpRaElMNjBBNEFZWlZDaV8zYUZqdThSY1h0MzhUSjlJNkFFbUNVTmVqbFB1ZTdKbnBTeElMUElUSlhwd204TnNUaw?oc=5",
+          "published": "2026-07-16T15:29:28+08:00",
+          "image": "https://source.unsplash.com/900x520/?gaming,esports&sig=games-9"
+        },
+        {
+          "title": "华为Pura80 Pro打游戏散热触控强不强",
+          "summary": "华为Pura80 Pro打游戏散热触控强不强 &nbsp;&nbsp; 新浪网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "新浪网",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HQ184dF9ITWtJZEhXdlZNU29pUjVwNXZ2NjFNT2d2SXBVZWdoeElfWmI5bWE2UkJvbGs0cE1IUlgxdTBFeHJmcGRsYzlVZWItM0ZtdF9IMnJaelJhMC1YWGFYTWNEck42Y1lKUU0zYnk1Zw?oc=5",
+          "published": "2026-07-16T20:37:56+08:00",
+          "image": "https://source.unsplash.com/900x520/?gaming,esports&sig=games-10"
+        }
+      ]
+    },
+    {
+      "id": "china",
+      "name": "中国",
+      "accent": "#b42318",
+      "items": [
+        {
+          "title": "对中国好感度赶超美国：盟友用脚投票，美国形象为何“跌至谷底”？ | 真相",
+          "summary": "对中国好感度赶超美国：盟友用脚投票，美国形象为何“跌至谷底”？ | 真相 &nbsp;&nbsp; chinanews.com.cn",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "chinanews.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZcFgwUUhiMGxBRnc2aC16dk1EYzhVTUlrU3ZWbS1WMEFrU1dxb1ZBZGZxZUt3XzNDb1lPdUM4T1ZkU1VudWEwUy12el92TS1YYWFvQnlaVmRrdEtidndGYXBpSFZWR1F0?oc=5",
+          "published": "2026-07-16T19:14:02+08:00",
+          "image": "https://source.unsplash.com/900x520/?china,city&sig=china-1"
+        },
+        {
+          "title": "柬埔寨首相洪玛奈抵达上海",
+          "summary": "柬埔寨首相洪玛奈抵达上海 &nbsp;&nbsp; 中国日报网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "中国日报网",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FNjU4cmw5N0pZQTRyYjk1dlN5Zkt2UEVqbmN3NHo1Y0tkZFVBZFZCaDhrcEhtYUtCYXlTUlNpSmRCeXVhNGoyS2NKR3E3cVNIOTVEdUdYcFJxeTNHaWFjX3AtZVlLV0xMemNWcDRRb1p3YVYydUxITG56aw?oc=5",
+          "published": "2026-07-16T19:41:28+08:00",
+          "image": "https://source.unsplash.com/900x520/?china,city&sig=china-2"
+        },
+        {
+          "title": "中国科大提出挤-拉打印策略实现柔性传感器一体化制造",
+          "summary": "中国科大提出挤-拉打印策略实现柔性传感器一体化制造 &nbsp;&nbsp; 中国科大新闻网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "中国科大新闻网",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EbVdfQmpRNTh0NGYzT29zaEpNMUtYVmozdDdyaWRBOC1oQ0txeXBwZXBuQjBmc3o3SkZyOTRrVldwMHh1RExGcnBCOUJXZnZhUWVkUy1oNA?oc=5",
+          "published": "2026-07-16T18:39:49+08:00",
+          "image": "https://source.unsplash.com/900x520/?china,city&sig=china-3"
+        },
+        {
+          "title": "[China Daily]Chinese, overseas students connect through music at Beijing exchange",
+          "summary": "[China Daily]Chinese, overseas students connect through music at Beijing exchange &nbsp;&nbsp; 人大新闻网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "人大新闻网",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YZlprQ2Vkd2h6RGp4ZV90bGgzV0lBbnFRSVNkUVhLcUlQak9HZEIzSHZiM1JFZ2FRWkhBTkxxYnJsQVE4SlRFZ05BUzYxVUpWZkduT0sxNllTLXV3?oc=5",
+          "published": "2026-07-16T17:51:57+08:00",
+          "image": "https://source.unsplash.com/900x520/?china,city&sig=china-4"
+        },
+        {
+          "title": "We're sorry but 中国新闻网 doesn't work properly without JavaScript enabled. Please enable it to continue.",
+          "summary": "We're sorry but 中国新闻网 doesn't work properly without JavaScript enabled. Please enable it to continue. &nbsp;&nbsp; ec…",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "ecns.cn",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wM2lCU2g0US02TFotNTM1MlllWXRkeV84TE5OcE9Bcjl6RV9tRjRobGZZVGdJbTJVbVFJSGtYRmx3ekg2Unh2MWhNM09fOXlhM19icGpjeENYNjd6NFhtb2ZSczViRDhHUV9LYkdJNFlSaGJHSjNB?oc=5",
+          "published": "2026-07-16T17:38:01+08:00",
+          "image": "https://source.unsplash.com/900x520/?china,city&sig=china-5"
+        },
+        {
+          "title": "综合新闻",
+          "summary": "综合新闻 &nbsp;&nbsp; ciomp.ac.cn",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "ciomp.ac.cn",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tS010Z2ZrSHBmTThDSGVYd1pGMGtvM0FCQjJUcG50MVNtb1VPbDlNeTI0QmRKMlJkYjJHcW1aVFpOeW5mVnZHd1VhaWtDYmlJX1pvcjdaQ1ZzaXNsZXViME9xb1A2NHBETFE?oc=5",
+          "published": "2026-07-16T18:41:28+08:00",
+          "image": "https://source.unsplash.com/900x520/?china,city&sig=china-6"
+        },
+        {
+          "title": "第二十八届中国科协年会主论坛在北京举行",
+          "summary": "第二十八届中国科协年会主论坛在北京举行 &nbsp;&nbsp; cast.org.cn",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "cast.org.cn",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUREbktBNUN1aFFYa1ZkaEQ2d0tXVVhIQ05ZQ2c4N3BLSUp6RkVsT1ItVms0aUJIY0w1amxSR1VETVktbG9oVEFmeXlLMmkzeW9pQzU2VjBIUzBwdHRjOU9GRVJkNmxLaGpNNzF3N0NfR0RDQ21MeW9xYmRPVThwSElMazlqYUswdmc?oc=5",
+          "published": "2026-07-16T16:46:34+08:00",
+          "image": "https://source.unsplash.com/900x520/?china,city&sig=china-7"
+        },
+        {
+          "title": "【中外对话】马来西亚前驻华大使：东盟各国应借鉴中国智慧 积极布局能源安全",
+          "summary": "【中外对话】马来西亚前驻华大使：东盟各国应借鉴中国智慧 积极布局能源安全 &nbsp;&nbsp; jwview.com",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "jwview.com",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wRi04YlEyWF9aNlZWRWJ6cHk1b1cwWU5sQm90b3pTeXhYM2dJQ1h2RXJSTUhnWktZejhvTGU1WVJkSGVJZ0xfeUhmZlRmbXczNWtjZWVCcGRldXd4S09UUUREZXg?oc=5",
+          "published": "2026-07-16T19:33:28+08:00",
+          "image": "https://source.unsplash.com/900x520/?china,city&sig=china-8"
+        },
+        {
+          "title": "上海今年体量最大的旧改项目居民集中搬迁",
+          "summary": "上海今年体量最大的旧改项目居民集中搬迁 &nbsp;&nbsp; chinanews.com.cn",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "chinanews.com.cn",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41dEVRUWNmd3NMNzZwN1VVUGxpd3dLcm9KUC1ndG02bDBudXRXcWtuWnVKRFJOZjE1VFlkRkctWkw3RXQ4R0VEVmJPb0ptWDJQUE5lMlRXeGZIUWVra3JlSFRYRXotRkY2?oc=5",
+          "published": "2026-07-16T19:26:51+08:00",
+          "image": "https://source.unsplash.com/900x520/?china,city&sig=china-9"
+        },
+        {
+          "title": "英国中国商会成功举办2026年正式会员大会",
+          "summary": "英国中国商会成功举办2026年正式会员大会 &nbsp;&nbsp; 中国日报网",
+          "why": "热度依据：过去 24 小时新闻聚合结果靠前，并在该板块关键词下出现。",
+          "source": "中国日报网",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XaWlBejlxTF9TMDU2dS1uTldSNWtPX1E1MzFrSTliTlRlQ1JodnRJV2hSQVBRU1dJVEoyRURXeEZoQzY0ejdzWndNWmpiaUZQaDJCMk1QLUg5Z3RtZXRLaWliSFNMRUk1UWsyMjZiVFRoWFg4VHRaa2tjRmI?oc=5",
+          "published": "2026-07-16T20:49:08+08:00",
+          "image": "https://source.unsplash.com/900x520/?china,city&sig=china-10"
+        }
+      ]
+    }
+  ]
+}
